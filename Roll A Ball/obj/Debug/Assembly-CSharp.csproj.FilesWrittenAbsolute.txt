@@ -1,0 +1,17 @@
+/Users/Evan/Working/U3D/Roll A Ball/Temp/bin/Debug/UnityEngine.dll
+/Users/Evan/Working/U3D/Roll A Ball/Temp/bin/Debug/UnityEditor.dll
+/Users/Evan/Working/U3D/Roll A Ball/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Evan/Working/U3D/Roll A Ball/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Evan/Working/U3D/Roll A Ball/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Evan/Working/U3D/Roll A Ball/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Evan/Working/U3D/Roll A Ball/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Evan/Working/U3D/Roll A Ball/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Evan/Working/U3D/Roll A Ball/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Evan/Working/U3D/Roll A Ball/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Evan/Working/U3D/Roll A Ball/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Evan/Working/U3D/Roll A Ball/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Evan/Working/U3D/Roll A Ball/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Evan/Working/U3D/Roll A Ball/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Evan/Working/U3D/Roll A Ball/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Evan/Working/U3D/Roll A Ball/obj/Debug/Assembly-CSharp.dll
+/Users/Evan/Working/U3D/Roll A Ball/obj/Debug/Assembly-CSharp.dll.mdb
