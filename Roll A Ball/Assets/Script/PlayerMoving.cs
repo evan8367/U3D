@@ -27,7 +27,6 @@ public class PlayerMoving : MonoBehaviour {
 	private void OnCollisionEnter (Collision collision) {
 		string colliderObjectTag = collision.collider.tag;
 		if (colliderObjectTag.Equals ("PickUp")) {
-
 		}
 	}
 
