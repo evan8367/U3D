@@ -1,14 +1,18 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/TankFiring.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TankHealth.cs">
     <Files>
-      <File FileName="Assets/Script/TankMoving.cs" Line="15" Column="7" />
-      <File FileName="Assets/Script/TankFiring.cs" Line="26" Column="59" />
-      <File FileName="Assets/Script/Shell.cs" Line="17" Column="3" />
+      <File FileName="Assets/Scripts/TankFiring.cs" Line="21" Column="37" />
+      <File FileName="Assets/Scripts/Shell.cs" Line="23" Column="51" />
+      <File FileName="Assets/Scripts/TankHealth.cs" Line="18" Column="3" />
+      <File FileName="Assets/Scripts/FollowTarget.cs" Line="26" Column="55" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/Evan/Working/U3D/Tank Battle/Assets/Script/TankFiring.cs" line="15" column="1" />
+      <Breakpoint file="/Users/Evan/Working/U3D/Tank Battle/Assets/Script/TankFiring.cs" line="23" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

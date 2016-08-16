@@ -45,9 +45,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\Shell.cs" />
-     <Compile Include="Assets\Script\TankFiring.cs" />
-     <Compile Include="Assets\Script\TankMoving.cs" />
+     <Compile Include="Assets\Scripts\BloodSplatter.cs" />
+     <Compile Include="Assets\Scripts\FollowTarget.cs" />
+     <Compile Include="Assets\Scripts\Shell.cs" />
+     <Compile Include="Assets\Scripts\TankFiring.cs" />
+     <Compile Include="Assets\Scripts\TankHealth.cs" />
+     <Compile Include="Assets\Scripts\TankMoving.cs" />
+     <None Include="Assets\Ian&apos;s Fire Pack\Shaders\AddSmooth_Layer.shader" />
+     <None Include="Assets\Ian&apos;s Fire Pack\Shaders\Add_Layer.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
